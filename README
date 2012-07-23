@@ -1,0 +1,2 @@
+String.h/String.cpp---
+-Contains implemtation of a String class similar (but not nearly as expansive) to std::string.
